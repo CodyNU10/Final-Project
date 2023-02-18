@@ -1,4 +1,4 @@
-# 2020 NFL Offensive Statistics in txt file format
+# 2020 NFL Offensive Statistics in csv file format
 
 Rk,Tm,G,PF,Yds,Ply,Y/P,TO,FL,1stD,Cmp,Att,Yds,TD,Int,NY/A,1stD,Att,Yds,TD,Y/A,1stD,Pen,Yds,1stPy,Sc%,TO%,EXP
 1,Green Bay Packers,16,509,6224,990,6.3,11,6,358,372,526,4106,48,5,7.5,216,443,2118,16,4.8,114,84,684,28,49.7,5.6,290.75
