@@ -1,4 +1,4 @@
-# 2018 Offensive Data txt file format
+# 2018 Offensive Data csv file format
 
 Rk,Tm,G,PF,Yds,Ply,Y/P,TO,FL,1stD,Cmp,Att,Yds,TD,Int,NY/A,1stD,Att,Yds,TD,Y/A,1stD,Pen,Yds,1stPy,Sc%,TO%,EXP
 1,Kansas City Chiefs,16,565,6810,996,6.8,18,6,384,385,583,4955,50,12,8.1,239,387,1855,16,4.8,108,137,1152,37,52.6,10.5,298.14
