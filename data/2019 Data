@@ -1,4 +1,4 @@
-# 2019 NFL Offensive Statistics in txt file format
+# 2019 NFL Offensive Statistics in csv file format
 
 Rk,Tm,G,PF,Yds,Ply,Y/P,TO,FL,1stD,Cmp,Att,Yds,TD,Int,NY/A,1stD,Att,Yds,TD,Y/A,1stD,Pen,Yds,1stPy,Sc%,TO%,EXP
 1,Baltimore Ravens,16,531,6521,1064,6.1,15,7,386,289,440,3225,37,8,6.9,171,596,3296,21,5.5,188,109,867,27,51.8,8.4,239.99
