@@ -1,5 +1,3 @@
-# Training Data in csv format
-
 ,Tm,W,Rk,G,PF,Yds,Ply,Y/P,TO,FL,1stD,Cmp,Att,Pass_Yds,TD,Int,NY/A,Pass_1stD,Att.1,Rush_Yds,Rush_TD,Y/A,Rush_1stD,Pen,Pen_Yds,1stPy,Sc%,TO%,EXP
 0,Philadelphia Eagles,13,3,16,457,5852,1073,5.5,20,11,338,341,564,3737,38,9,6.2,193,473,2115,9,4.5,108,116,962,37,40.3,9.4,21.06
 1,Minnesota Vikings,13,10,16,382,5710,1055,5.4,14,6,334,357,527,3753,25,8,6.8,196,501,1957,15,3.9,100,100,949,38,38.9,7.6,-54.08
